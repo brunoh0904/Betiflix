@@ -1,0 +1,29 @@
+body {
+    color:beige;
+    background: black;
+    margin: 0px;
+    margin-bottom: 100px;
+}
+
+header{
+    border: solid 7px green;
+    font-size: 50px;
+    color: yellow;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+.titulo {
+    font-size: 29px;
+    display: flex;
+    justify-content: center;
+}
+
+.texto {
+    font-size: 25px;
+}
+
+img {
+    height: 200px;
+    margin: 20px;
+}
